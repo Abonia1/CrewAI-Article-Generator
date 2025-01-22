@@ -54,8 +54,7 @@ CrewAI Article Generator is a Streamlit-based application designed to produce co
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Abonia1/CrewAI-Article-Generator
    ```
 
 2. **Install dependencies**:
@@ -94,12 +93,6 @@ CrewAI Article Generator is a Streamlit-based application designed to produce co
 2. Enter a topic, e.g., "Artificial Intelligence in Healthcare."
 3. Click the **Generate Article** button.
 4. View and download the generated article.
-
----
-
-## 🛡️ License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
